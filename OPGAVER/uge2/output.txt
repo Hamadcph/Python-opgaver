@@ -1,0 +1,10 @@
+C:\\Users\\hamad\\OneDrive\\Dokumenter\\Datamatiker\\4.semester\\Python\\SemesterPlan\\Exercises\\OPGAVER\\uge2\output.txt
+C:\\Users\\hamad\\OneDrive\\Dokumenter\\Datamatiker\\4.semester\\Python\\SemesterPlan\\Exercises\\OPGAVER\\uge2\test.txt
+C:\\Users\\hamad\\OneDrive\\Dokumenter\\Datamatiker\\4.semester\\Python\\SemesterPlan\\Exercises\\OPGAVER\\uge2\.ipynb_checkpoints\02-Exercise-checkpoint.ipynb
+C:\\Users\\hamad\\OneDrive\\Dokumenter\\Datamatiker\\4.semester\\Python\\SemesterPlan\\Exercises\\OPGAVER\\uge2\.ipynb_checkpoints\CsvToList.py
+C:\\Users\\hamad\\OneDrive\\Dokumenter\\Datamatiker\\4.semester\\Python\\SemesterPlan\\Exercises\\OPGAVER\\uge2\.ipynb_checkpoints\ModuleTest.py
+C:\\Users\\hamad\\OneDrive\\Dokumenter\\Datamatiker\\4.semester\\Python\\SemesterPlan\\Exercises\\OPGAVER\\uge2\.ipynb_checkpoints\ReadAndPrint.py
+C:\\Users\\hamad\\OneDrive\\Dokumenter\\Datamatiker\\4.semester\\Python\\SemesterPlan\\Exercises\\OPGAVER\\uge2\.ipynb_checkpoints\test.csv
+C:\\Users\\hamad\\OneDrive\\Dokumenter\\Datamatiker\\4.semester\\Python\\SemesterPlan\\Exercises\\OPGAVER\\uge2\.ipynb_checkpoints\utils.py
+C:\\Users\\hamad\\OneDrive\\Dokumenter\\Datamatiker\\4.semester\\Python\\SemesterPlan\\Exercises\\OPGAVER\\uge2\.ipynb_checkpoints\WriteToCsv.py
+C:\\Users\\hamad\\OneDrive\\Dokumenter\\Datamatiker\\4.semester\\Python\\SemesterPlan\\Exercises\\OPGAVER\\uge2\.ipynb_checkpoints\__pycache__\utils.cpython-37.pyc
